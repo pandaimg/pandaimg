@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**pandaimg/pandaimg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## PanDaIMG（熊猫图床）一款全新的国内公益图床
+**官网**：www.pandaimg.com
+![熊猫图床首页](https://cdn2.pandaimg.com/2021/12/13/2RbPqw7F.jpeg)
+## 介绍
+熊猫图床是一款以图片上传、图片管理为核心的图床/图片管理平台，能够满足「收藏、整理、查找」的各种场景，把琐碎复杂的事情变得简单与高效，让收集素材成为⽇常习惯，更让素材真正到想用的时候可以信手拈来！是设计师和摄影爱好者必不可少的工具！
+## 功能
+ 1. 360全景视图制作（一键制作生成全景视图页面，360度无死角观看，记录你的缤纷生活，给观看者视觉上最震撼的观看体验）
+ 2. 自定义水印上传
+ 3. 完善的API接口（需要一定的开发能力才能对接）
+ 4. 画廊图像分享（对于从事摄影后者个人图像展示的，可以轻松生成并且分享自己的画廊， 支持添加访问密码，防止被他人偷看）
+ 5. 临时图像（可以设置图像上传有效时间，到期自动删除）
+ 6. 支持 图片拖拽、截图直接(Ctrl+V)和URL地址上传
+ 7. 支持多种图像格式如:gif,jpg,jpeg,bmp,png,jfif,webp,ico,svg
+ 8. 图像归类功能（规划图片种类，一目了然）
+ **更多功能请注册查看**
